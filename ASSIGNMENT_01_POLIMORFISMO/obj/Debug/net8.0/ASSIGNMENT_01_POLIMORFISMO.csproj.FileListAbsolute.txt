@@ -1,0 +1,14 @@
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\bin\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.exe
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\bin\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.deps.json
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\bin\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.runtimeconfig.json
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\bin\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.dll
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\bin\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.pdb
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.dll
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\refint\ASSIGNMENT_01_POLIMORFISMO.dll
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.pdb
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ASSIGNMENT_01_POLIMORFISMO.genruntimeconfig.cache
+C:\Users\Pichau\Downloads\Tarefa\ASSIGNMENT_01_POLIMORFISMO\obj\Debug\net8.0\ref\ASSIGNMENT_01_POLIMORFISMO.dll

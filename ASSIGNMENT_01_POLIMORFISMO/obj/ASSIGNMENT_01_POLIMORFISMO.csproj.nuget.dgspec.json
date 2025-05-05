@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pichau\\Downloads\\Tarefa\\ASSIGNMENT_01_POLIMORFISMO\\ASSIGNMENT_01_POLIMORFISMO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pichau\\Downloads\\Tarefa\\ASSIGNMENT_01_POLIMORFISMO\\ASSIGNMENT_01_POLIMORFISMO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pichau\\Downloads\\Tarefa\\ASSIGNMENT_01_POLIMORFISMO\\ASSIGNMENT_01_POLIMORFISMO.csproj",
+        "projectName": "ASSIGNMENT_01_POLIMORFISMO",
+        "projectPath": "C:\\Users\\Pichau\\Downloads\\Tarefa\\ASSIGNMENT_01_POLIMORFISMO\\ASSIGNMENT_01_POLIMORFISMO.csproj",
+        "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pichau\\Downloads\\Tarefa\\ASSIGNMENT_01_POLIMORFISMO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
